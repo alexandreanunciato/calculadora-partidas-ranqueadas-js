@@ -31,4 +31,5 @@ O objetivo principal é praticar conceitos básicos de programação, como vari�
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/alexandreanunciato/calculadora-partidas-ranqueadas-js
+   https://github.com/alexandreanunciato/calculadora-partidas-ranqueadas-js
+
